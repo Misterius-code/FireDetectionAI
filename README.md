@@ -13,3 +13,5 @@ pip install tensorflow==2.15.0
 
 
 Kliknij urchom w visual studio
+
+![obraz](https://github.com/user-attachments/assets/5e5df371-b28b-40f0-ae94-315dd61137ef)
